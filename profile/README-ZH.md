@@ -452,4 +452,7 @@ items.cash 是一种 **创新型跨体系清算网络**，利用全球 CS2 饰�
 
 **人民币 → 饰品 → USDT → 商户结算**
 
+
 同时依托自动凑单、拍卖撮合、虚拟资产流动性，使整个系统具备持续运营能力。
+
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/194d3a35-311e-49a1-9c68-751b05986ee0" />
